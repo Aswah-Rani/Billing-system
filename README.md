@@ -8,9 +8,9 @@ This project is a simple Inventory and Billing System developed in C language. I
 
 **👩‍💻 Group Members**
 
-Shanza Shafiq   BITF24M008        
-Aswah Rani      BITF24M016        
-Tehreem Fatima  BITF24M029     
+Shanza Shafiq  | BITF24M008        
+Aswah Rani     | BITF24M016        
+Tehreem Fatima | BITF24M029     
 
 > *Department*: BS Information Technology  
 > *Campus*: PUCIT – Old Campus, Lahore
@@ -30,11 +30,11 @@ Tehreem Fatima  BITF24M029
 
 **📁 File Structure**
 
- 📄 File Name         📌 Purpose                             
-   main.c              Full source code of the application     
-  inventory.txt       Stores all inventory items              
-  invoices.txt       Stores invoice history for customers    
-  temp.txt           Used for intermediate edits/deletions   
+ 📄 File Name      |   📌 Purpose                             
+   main.c          |   Full source code of the application     
+  inventory.txt    |  Stores all inventory items              
+  invoices.txt     |  Stores invoice history for customers    
+  temp.txt         |  Used for intermediate edits/deletions   
 
 
 ## 🔓 Login Credentials
@@ -43,6 +43,8 @@ Tehreem Fatima  BITF24M029
 
 
 **🧾 Sample Invoice (Output Preview)**
+
+
 ----- Invoice -----
 Customer: Aswah 
 Phone: 03001234567
